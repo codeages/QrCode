@@ -1,5 +1,5 @@
 {
-    "name": "endroid/qrcode",
+    "name": "codeages/qrcode",
     "description": "Endroid QR Code",
     "keywords": ["endroid", "qrcode", "qr", "code", "bundle", "symfony"],
     "homepage": "https://github.com/endroid/QrCode",
